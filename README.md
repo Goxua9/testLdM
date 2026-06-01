@@ -1,6 +1,6 @@
-# Test LMSGI Interactivo
+# Test Lenguaje de Marcas Interactivo
 
-Test interactivo hecho con HTML, CSS y JavaScript para practicar preguntas de LMS.
+Test interactivo hecho con HTML, CSS y JavaScript para practicar preguntas de Lenguaje de Marcas.
 
 ## Características
 
